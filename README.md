@@ -15,7 +15,8 @@ The purpose of this project was to help Louise compare the different outcomes be
 
 ### Analysis of Outcomes Based on Launch Date
 
-By creating a pivot chart using the campaign data I was able to combine and filter the results for parent category "theater" to determine the total amount of successful, failed, and canceled theater project outcomes there were by month. I then created a pivot chart which can be found here: ![Theater_Outcomes_vs_Launch](/Users/alexislarson/Desktop/resources/Theater_Outcomes_vs_Launch.png) 
+By creating a pivot chart using the campaign data I was able to combine and filter the results for parent category "theater" to determine the total amount of successful, failed, and canceled theater project outcomes there were by month. I then created a pivot chart which can be found here: ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88064931/147999685-4554854c-fb0c-4bbe-a806-d4fa05ec3dfa.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
@@ -44,4 +45,4 @@ I personally did not have any issues manipulating this data, using the formulas 
 
 - What are some other possible tables and/or graphs that we could create?
 
-1. I think we should have created a graph using the method for deliverable 2, but instead of using goal ranges we analyze all of the subcategories. Example can be seen here: ![subcategory_vs_Outcomes_extragraph](/Users/alexislarson/Desktop/resources/subcategory_vs_Outcomes_extragraph.png)
+1. I think we should have created a graph using the method for deliverable 2, but instead of using goal ranges we analyze all of the subcategories. Example can be seen here: ![subcategory_vs_Outcomes_extragraph](https://user-images.githubusercontent.com/88064931/147999709-c32fa5eb-d82c-4332-9aaa-a087f81a99be.png)
