@@ -19,7 +19,8 @@ By creating a pivot chart using the campaign data I was able to combine and filt
 
 ### Analysis of Outcomes Based on Goals
 
-By creating various goal ranges and using the countifs function I was able to group the number of successful, failed, and canceled projects of plays there were in the theater based on the targeted goal amount. I then created a line chart to visually see the results between the goal ranges and the percentage of the play project outcome. The percentage amount was determined by dividing the number of outcomes by total project outcomes within a goal range period. You can find the line chart image through this path: ![Outcomes_vs_Goals](/Users/alexislarson/Desktop/resources/Outcomes_vs_Goals.png)  
+By creating various goal ranges and using the countifs function I was able to group the number of successful, failed, and canceled projects of plays there were in the theater based on the targeted goal amount. I then created a line chart to visually see the results between the goal ranges and the percentage of the play project outcome. The percentage amount was determined by dividing the number of outcomes by total project outcomes within a goal range period. You can find the line chart image through this path:  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88064931/147999102-1b18f06e-76ab-4ae2-bc2b-5fd2f9edf354.png)
+
 
 ### Challenges and Difficulties Encountered
 
